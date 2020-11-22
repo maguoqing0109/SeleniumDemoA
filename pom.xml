@@ -64,6 +64,7 @@
                 <configuration>
                     <suiteXmlFiles>
                         <suiteXmlFile>./temptestng.xml</suiteXmlFile>
+                        <suiteXmlFile>./temptestngA.xml</suiteXmlFile>
                     </suiteXmlFiles>
                 </configuration>
             </plugin>
