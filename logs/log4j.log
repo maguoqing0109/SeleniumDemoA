@@ -319,3 +319,85 @@
 2020-11-21 20:37:26,757 INFO main [PageOperations.BaiduLoginSearchWindow]info --Input pwd box.
 2020-11-21 20:37:30,011 INFO main [PageOperations.BaiduLoginSearchWindow]info --Click loging button.
 2020-11-21 20:37:33,217 INFO main [PageOperations.BaiduLoginSearchWindow]info --Check Elemnet exists.
+2020-11-22 11:24:26,254 INFO main [Test.BaiduLoginCase]info 201122
+2020-11-22 11:24:49,263 INFO main [Test.BaiduLoginCase]info 20201122
+2020-11-22 11:25:20,366 INFO main [Test.BaiduLoginCase]info 20201122_111120
+2020-11-22 11:26:56,450 INFO main [Test.BaiduLoginCase]info 20201122
+2020-11-22 11:27:17,014 INFO main [Test.BaiduLoginCase]info 2020/11/22
+2020-11-22 11:27:40,305 INFO main [Test.BaiduLoginCase]info 20201122_111140
+2020-11-22 11:29:20,778 INFO main [Test.BaiduLoginCase]info --Loading driver--
+2020-11-22 11:29:40,198 INFO main [Test.BaiduLoginCase]info --Start test Case--
+2020-11-22 11:29:43,282 INFO main [PageOperations.BaiduLoginSearchWindow]info --Click login button
+2020-11-22 11:29:47,081 INFO main [PageOperations.BaiduLoginSearchWindow]info --Select Login for UserName
+2020-11-22 11:30:10,291 INFO main [PageOperations.BaiduLoginSearchWindow]info --Input userName box.
+2020-11-22 11:30:13,717 INFO main [PageOperations.BaiduLoginSearchWindow]info --Input pwd box.
+2020-11-22 11:30:17,128 INFO main [PageOperations.BaiduLoginSearchWindow]info --Click loging button.
+2020-11-22 12:34:39,385 INFO main [Test.BaiduSearchWindow]info --Test Case start.
+2020-11-22 12:34:39,468 INFO main [PageOperations.BaiduLoginSearchWindow]info --Window adjust size :(700, 700)
+2020-11-22 12:36:13,692 INFO main [Test.BaiduSearchWindow]info --Test Case start.
+2020-11-22 12:36:13,695 INFO main [PageOperations.BaiduLoginSearchWindow]info --Window adjust size :(700, 700)
+2020-11-22 12:36:19,008 INFO main [PageOperations.BaiduLoginSearchWindow]info --Window size max
+2020-11-22 12:36:22,174 INFO main [PageOperations.BaiduLoginSearchWindow]info --Search box input: beyondSofterr
+2020-11-22 12:36:25,850 INFO main [PageOperations.BaiduLoginSearchWindow]info --delete more text.
+2020-11-22 12:36:29,035 INFO main [PageOperations.BaiduLoginSearchWindow]info --doubleClick Text
+2020-11-22 12:36:33,367 INFO main [PageOperations.BaiduLoginSearchWindow]info --Cut box text :beyondSofterr.
+2020-11-22 12:36:36,463 INFO main [PageOperations.BaiduLoginSearchWindow]info --Copy box text :beyondSofterr.
+2020-11-22 12:36:39,547 INFO main [PageOperations.BaiduLoginSearchWindow]info --Click search button
+2020-11-22 12:36:42,731 INFO main [PageOperations.BaiduLoginSearchWindow]info --Referesh window
+2020-11-22 12:36:45,764 INFO main [PageOperations.BaiduLoginSearchWindow]info --Back first page
+2020-11-22 12:36:49,137 INFO main [PageOperations.BaiduLoginSearchWindow]info --Forward Search page
+2020-11-22 12:36:52,203 INFO main [PageOperations.BaiduLoginSearchWindow]info --Assert hotSearch exists
+2020-11-22 12:58:49,261 INFO main [Test.BaiduSearchWindow]info --Test Case start.
+2020-11-22 12:58:49,267 INFO main [PageOperations.BaiduLoginSearchWindow]info --Window adjust size :(700, 700)
+2020-11-22 12:58:54,512 INFO main [PageOperations.BaiduLoginSearchWindow]info --Window size max
+2020-11-22 12:58:57,651 INFO main [PageOperations.BaiduLoginSearchWindow]info --Search box input: beyondSofterr
+2020-11-22 12:59:00,959 INFO main [PageOperations.BaiduLoginSearchWindow]info --delete more text.
+2020-11-22 12:59:08,384 INFO main [PageOperations.BaiduLoginSearchWindow]info --doubleClick Text
+2020-11-22 12:59:11,618 INFO main [PageOperations.BaiduLoginSearchWindow]info --Cut box text :beyondSofterr.
+2020-11-22 12:59:14,717 INFO main [PageOperations.BaiduLoginSearchWindow]info --Copy box text :beyondSofterr.
+2020-11-22 12:59:17,796 INFO main [PageOperations.BaiduLoginSearchWindow]info --Click search button
+2020-11-22 12:59:21,033 INFO main [PageOperations.BaiduLoginSearchWindow]info --Referesh window
+2020-11-22 12:59:24,064 INFO main [PageOperations.BaiduLoginSearchWindow]info --Back first page
+2020-11-22 12:59:27,392 INFO main [PageOperations.BaiduLoginSearchWindow]info --Forward Search page
+2020-11-22 12:59:30,484 INFO main [PageOperations.BaiduLoginSearchWindow]info --Assert hotSearch exists
+2020-11-22 13:00:22,687 INFO main [Test.BaiduSearchWindow]info --Test Case start.
+2020-11-22 13:00:22,693 INFO main [PageOperations.BaiduLoginSearchWindow]info --Window adjust size :(700, 700)
+2020-11-22 13:00:28,041 INFO main [PageOperations.BaiduLoginSearchWindow]info --Window size max
+2020-11-22 13:00:31,222 INFO main [PageOperations.BaiduLoginSearchWindow]info --Search box input: beyondSofterr
+2020-11-22 13:00:34,473 INFO main [PageOperations.BaiduLoginSearchWindow]info --delete more text.
+2020-11-22 13:00:40,726 INFO main [PageOperations.BaiduLoginSearchWindow]info --doubleClick Text
+2020-11-22 13:00:43,920 INFO main [PageOperations.BaiduLoginSearchWindow]info --Cut box text :beyondSofterr.
+2020-11-22 13:00:46,987 INFO main [PageOperations.BaiduLoginSearchWindow]info --Copy box text :beyondSofterr.
+2020-11-22 13:00:50,100 INFO main [PageOperations.BaiduLoginSearchWindow]info --Click search button
+2020-11-22 13:00:53,329 INFO main [PageOperations.BaiduLoginSearchWindow]info --Referesh window
+2020-11-22 13:00:56,347 INFO main [PageOperations.BaiduLoginSearchWindow]info --Back first page
+2020-11-22 13:00:59,678 INFO main [PageOperations.BaiduLoginSearchWindow]info --Forward Search page
+2020-11-22 13:01:02,730 INFO main [PageOperations.BaiduLoginSearchWindow]info --Assert hotSearch exists
+2020-11-22 13:01:03,536 INFO main [Test.BaiduLoginCase]info --Loading driver--
+2020-11-22 13:01:09,989 INFO main [Test.BaiduLoginCase]info --Start test Case--
+2020-11-22 13:01:13,034 INFO main [PageOperations.BaiduLoginSearchWindow]info --Click login button
+2020-11-22 13:01:16,160 INFO main [PageOperations.BaiduLoginSearchWindow]info --Select Login for UserName
+2020-11-22 13:01:34,627 INFO main [PageOperations.BaiduLoginSearchWindow]info --Input userName box.
+2020-11-22 13:01:39,619 INFO main [PageOperations.BaiduLoginSearchWindow]info --Input pwd box.
+2020-11-22 13:01:42,807 INFO main [PageOperations.BaiduLoginSearchWindow]info --Click loging button.
+2020-11-22 13:04:16,828 INFO main [Test.BaiduSearchWindow]info --Test Case start.
+2020-11-22 13:04:16,832 INFO main [PageOperations.BaiduLoginSearchWindow]info --Window adjust size :(700, 700)
+2020-11-22 13:04:22,136 INFO main [PageOperations.BaiduLoginSearchWindow]info --Window size max
+2020-11-22 13:04:25,256 INFO main [PageOperations.BaiduLoginSearchWindow]info --Search box input: beyondSofterr
+2020-11-22 13:04:28,639 INFO main [PageOperations.BaiduLoginSearchWindow]info --delete more text.
+2020-11-22 13:04:31,726 INFO main [PageOperations.BaiduLoginSearchWindow]info --doubleClick Text
+2020-11-22 13:04:35,058 INFO main [PageOperations.BaiduLoginSearchWindow]info --Cut box text :beyondSofterr.
+2020-11-22 13:04:38,145 INFO main [PageOperations.BaiduLoginSearchWindow]info --Copy box text :beyondSofterr.
+2020-11-22 13:04:41,257 INFO main [PageOperations.BaiduLoginSearchWindow]info --Click search button
+2020-11-22 13:04:44,443 INFO main [PageOperations.BaiduLoginSearchWindow]info --Referesh window
+2020-11-22 13:04:47,471 INFO main [PageOperations.BaiduLoginSearchWindow]info --Back first page
+2020-11-22 13:04:50,803 INFO main [PageOperations.BaiduLoginSearchWindow]info --Forward Search page
+2020-11-22 13:04:53,859 INFO main [PageOperations.BaiduLoginSearchWindow]info --Assert hotSearch exists
+2020-11-22 13:04:54,629 INFO main [Test.BaiduLoginCase]info --Loading driver--
+2020-11-22 13:05:02,308 INFO main [Test.BaiduLoginCase]info --Start test Case--
+2020-11-22 13:05:05,337 INFO main [PageOperations.BaiduLoginSearchWindow]info --Click login button
+2020-11-22 13:05:08,458 INFO main [PageOperations.BaiduLoginSearchWindow]info --Select Login for UserName
+2020-11-22 13:05:25,442 INFO main [PageOperations.BaiduLoginSearchWindow]info --Input userName box.
+2020-11-22 13:05:30,377 INFO main [PageOperations.BaiduLoginSearchWindow]info --Input pwd box.
+2020-11-22 13:05:33,592 INFO main [PageOperations.BaiduLoginSearchWindow]info --Click loging button.
+2020-11-22 13:05:36,799 INFO main [PageOperations.BaiduLoginSearchWindow]info --Check Elemnet exists.

@@ -4,6 +4,7 @@
   <test name="SeleniumStudyA">
     <classes>
       <class name="Test.BaiduSearchWindow"/>
+      <class name="Test.BaiduLoginCase"/>
     </classes>
   </test> <!-- SeleniumStudyA -->
 </suite> <!-- Default Suite -->

@@ -31,7 +31,17 @@ public class BaiduLoginCase {
        baiduLoginSearchWindow.loginUser(TestEnv.USERNAME, TestEnv.PWD);
        Boolean resultValue = baiduLoginSearchWindow.loginAssert();
         Assert.assertTrue(resultValue, "Check page key word.");
+
     }
+
+/*    @Test
+    public void methodDate() {
+        SimpleDateFormat adf = new SimpleDateFormat( "yyyyMMdd_hhMMss" );
+//        String s = adf.format( new Date(  ) );
+        Calendar cl = Calendar.getInstance();
+        String s = adf.format( cl.getTime() );
+        log.info( s );
+    }*/
 
     @AfterMethod
     public void clearDriver() {
