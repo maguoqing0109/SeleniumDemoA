@@ -4,6 +4,7 @@ import SeleniumFrameworkMethod.ReadLog4j;
 import WebDrivers.BrowserTypes;
 import WebDrivers.Drivers;
 import org.openqa.selenium.WebDriver;
+import org.testng.Assert;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
@@ -22,6 +23,7 @@ public class TesA {
     public void methodB() {
         log.info( "打开淘宝网页" );
         driver.get( "http://www.taobao.com/" );
+        Assert.assertTrue( false );
     }
 
     @AfterMethod
