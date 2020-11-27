@@ -4,6 +4,7 @@
   <test name="SeleniumStudyA">
     <classes>
       <class name="Test.TestJenkins"/>
+      <class name="Test.TesA"/>
     </classes>
   </test> <!-- SeleniumStudyA -->
 </suite> <!-- Default Suite -->
