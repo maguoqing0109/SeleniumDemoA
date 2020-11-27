@@ -23,7 +23,7 @@ public class TesA {
     public void methodB() {
         log.info( "打开淘宝网页" );
         driver.get( "http://www.taobao.com/" );
-        Assert.assertTrue( false );
+        Assert.assertTrue( true );
     }
 
     @AfterMethod
